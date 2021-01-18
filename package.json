@@ -1,0 +1,17 @@
+{
+  "name": "Anime-broadcast-day-checker--webscraping-",
+  "version": "1.0.0",
+  "description": "A tool that shows you which day all the currently airing anime will come out based on all the anime that you’re currently watching",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
